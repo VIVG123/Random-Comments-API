@@ -1,0 +1,30 @@
+@font-face { font-family: reallyfree; src: url('ReallyFree-ALwl7.ttf'); } 
+
+.heading{
+    text-align: center ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: deeppink ;
+    font-weight: bolder ;
+    font-size: 50px ;
+
+}
+
+.commentBox{
+    box-sizing: border-box ;
+    border-color: firebrick ;
+    font-size: 50px ;
+    font-weight: lighter;
+    font-family: reallyfree ;
+    border-width: 2px ;
+    color : firebrick ;
+}
+
+*{
+    text-align: center;
+    color: dodgerblue;
+    font-weight: bolder;
+    height: 50px ;
+    font-size: large;
+
+}
+ 
